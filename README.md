@@ -11,7 +11,7 @@
 <img src='https://miro.medium.com/max/875/1*ZeYXdND4eaYmqrSzKXKKFg.png' alt='boston housing dataset' align='center' />
 
 
-**Data description**
+*Data description*
 **The Boston data frame has 506 rows and 14 columns.**
 
 This data frame contains the following columns:
