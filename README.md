@@ -34,7 +34,7 @@ nitrogen oxides concentration (parts per 10 million).
 `rm`
 average number of rooms per dwelling.
 
-age
+`age`
 proportion of owner-occupied units built prior to 1940.
 
 `dis`
@@ -55,8 +55,9 @@ pupil-teacher ratio by town.
 `lstat`
 lower status of the population (percent).
 
-`medv`
+`medv` or `price`
 median value of owner-occupied homes in \$1000s.
+Here I used this as price as a target variable
 
 # Source
 ---
