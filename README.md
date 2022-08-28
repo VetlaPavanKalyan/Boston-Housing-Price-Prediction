@@ -16,48 +16,48 @@
 
 This data frame contains the following columns:
 
-`crim`
+- `crim`
 per capita crime rate by town.
 
-`zn`
+- `zn`
 proportion of residential land zoned for lots over 25,000 sq.ft.
 
-`indus`
+- `indus`
 proportion of non-retail business acres per town.
 
-`chas`
+- `chas`
 Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
 
-`no`
+- `no`
 nitrogen oxides concentration (parts per 10 million).
 
-`rm`
+- `rm`
 average number of rooms per dwelling.
 
-`age`
+- `age`
 proportion of owner-occupied units built prior to 1940.
 
-`dis`
+- `dis`
 weighted mean of distances to five Boston employment centres.
 
-`rad`
+- `rad`
 index of accessibility to radial highways.
 
-`tax`
+- `tax`
 full-value property-tax rate per \$10,000.
 
-`ptratio`
+- `ptratio`
 pupil-teacher ratio by town.
 
-`black`
+- `black`
 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
 
-`lstat`
+- `lstat`
 lower status of the population (percent).
 
-`medv` or `price`
+- `medv` or `price`
 median value of owner-occupied homes in \$1000s.
-Here I used this as price as a target variable
+***Here I used this as `price` for target variable***
 
 # Source
 ---
