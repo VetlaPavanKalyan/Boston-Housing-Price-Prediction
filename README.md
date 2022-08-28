@@ -22,10 +22,10 @@ per capita crime rate by town.
 `zn`
 proportion of residential land zoned for lots over 25,000 sq.ft.
 
-`indus'
+`indus`
 proportion of non-retail business acres per town.
 
-`chas'
+`chas`
 Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
 
 `no`
